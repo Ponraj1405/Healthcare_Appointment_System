@@ -1,0 +1,6 @@
+Django
+djangorestframework
+mysqlclient
+requests
+PyQt5
+
